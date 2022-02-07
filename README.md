@@ -16,19 +16,6 @@ Passwords should contain at least ten characters and have a combination of chara
 Users should never write down their passwords, as that makes it easier for the passwords to be stolen and used by someone else.
 Also, never use the same password for two or more devices, as hackers who break into one machine will try to use the same password to take control of others.
 
-To protect yourself against the newest hacking methods, you'll need powerful passwords. If you're wondering. "how strong is my password?" here are some tips to help you create a strong password:
-
-Is it long? Try for over 10-12 characters minimum but aim to make it longer if possible.
-Is it hard to guess? You should avoid sequences (“12345” “qwerty”) because these can be brute force hacked in seconds. Also, avoid common words (“password1”) for the same reason.
-Does it use varied character types? Lowercase, uppercase, symbols, and numbers can all have a home in your password. Variety can increase how unpredictable your password is.
-Does it avoid apparent character substitutes? For example, you might use the number zero “0” in place of the letter “O.” Hackers code these into their software nowadays, so avoid this.
-Does it use any uncommon word combinations? Passphrases might be more secure when using unexpected words. Even if you are using common words, you can arrange them in an odd order and make sure they are unrelated. Both methods can throw off dictionary hacking.
-Will you remember it? Use something that makes sense to you but will be hard for computers to guess. Even random passwords can be remembered by muscle memory and being semi-readable. But passwords that lock you out of your account won't help much.
-Have you used it before? Reusing passwords compromises multiple accounts. Make it original every time.
-Does it use a rule that’s hard for computers to guess? An example might be a passphrase of three 4-letter words, where you are replacing the first two letters of each word with numbers and symbols. This might look like: “?4ee#2ge?6ng” in place of “treecagesing”
-# university-password-strength-score-python
-checks a passwords strength 
-
 
 It checks a passwords strength using several rules based on the ones found at Wolfram Alpha Password Strength Checker.
 
